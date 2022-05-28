@@ -1,1 +1,27 @@
+Telegram nickname: yuvynokurov
+Bug_id:  28
+Title:  Lost access to content outside of margins in split screen.
 
+Severity: Major
+Priority:  Medium
+
+Environment: 1)Redmi note 7 Android 10 MIUA Global 12.5.3.0
+             
+Precondition: 
+1) Install the AndroidGridTest application.
+2) Open the AndroidGridTest application.
+
+STR:    
+ 
+ 1) Enable split screen
+ 2) Scroll through the application
+
+
+AR:                
+ Lost access to content outside the fields.
+
+ER:    
+Сan scroll and access the rest of the functionality             
+
+Attachments: 
+https://drive.google.com/drive/u/1/folders/1Q5pTWchGHKveVHgYjOMeXui_3OY-9tnj
